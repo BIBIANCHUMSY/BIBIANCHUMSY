@@ -1,16 +1,27 @@
-### Hi there 👋
+BIBIANCHUMSY / README.md
 
-<!--
-**BIBIANCHUMSY/BIBIANCHUMSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi dear 👋
 
-Here are some ideas to get you started:
+🚀 About Me
+I'm a backend developer...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other Common Github Profile Sections
+👩‍💻 I'm currently working on my portfolio
+🧠 I'm currently learning Java
+🤔 I'm looking for help with...
+💬 Ask me about...
+📫 How to reach me bbchumsy@gmail.com +2348131054804
+😄 Pronouns...her
+⚡️ Fun fact...
+
+FAQ
+
+what is your Goal
+To become a software developer that will bring positive changes to tech world and make a name for my brand
+
+Watch word
+Learn UnLearn Relearn
+Trust the process
+
+🛠 Skills
+Python, C, Java, CSS, HTML…
