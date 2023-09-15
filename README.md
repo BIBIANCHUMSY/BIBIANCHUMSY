@@ -1,11 +1,11 @@
 BIBIANCHUMSY / README.md
 
-Hi dear 👋
+## Hi dear 👋
 
-🚀 About Me
+## 🚀 About Me
 I'm a backend developer...
 
-Other Common Github Profile Sections
+## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my portfolio
 🧠 I'm currently learning Java
 🤔 I'm looking for help with...
@@ -14,14 +14,18 @@ Other Common Github Profile Sections
 😄 Pronouns...her
 ⚡️ Fun fact...
 
-FAQ
+## FAQ
 
-what is your Goal
+## what is your Goal
 To become a software developer that will bring positive changes to tech world and make a name for my brand
 
-Watch word
+## Watch word
 Learn UnLearn Relearn
 Trust the process
 
-🛠 Skills
+## 🛠 Skills
 Python, C, Java, CSS, HTML…
+
+## Links
+linkedin.com/in/bibian-chumsy-459017aa
+
